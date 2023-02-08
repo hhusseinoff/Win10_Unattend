@@ -24,7 +24,7 @@
             <Themes>
                 <DefaultThemesOff>false</DefaultThemesOff>
                 <SystemUsesLightTheme>false</SystemUsesLightTheme>
-                <ThemeName>Allianz Dark</ThemeName>
+                <ThemeName>Company Dark</ThemeName>
                 <UWPAppsUseLightTheme>false</UWPAppsUseLightTheme>
                 <WindowColor>0xff1b1b1b</WindowColor>
             </Themes>
